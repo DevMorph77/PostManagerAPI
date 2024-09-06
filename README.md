@@ -1,7 +1,3 @@
-Here's a sample `README.md` for your **PostManager API** project:
-
----
-
 # PostManager API
 
 **PostManager API** is a CRUD (Create, Read, Update, Delete) API built using **FastAPI** and **SQLAlchemy**. It allows users to manage posts by providing endpoints to create, fetch, update, and delete posts. The API is structured for scalability, easy integration with a PostgreSQL database, and efficient post management.
